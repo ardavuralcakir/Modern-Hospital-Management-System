@@ -1,23 +1,8 @@
-# AGAS KHIG - Modern Healthcare Management System
-## Your Health, Our Mission: Advanced Hospital Management Solution
-
 ## Overview
 This comprehensive Hospital Management System is a Java-based desktop application that provides a complete solution for managing hospital operations, appointments, and patient records. The system includes features for patients, doctors, and administrators, making it a versatile tool for healthcare facilities.
 
-### Project Contributors
-This project was developed collaboratively by:
-- Ulaş Gökçe
-- Emirhan Akdeniz
 
-## Application Screenshots
 
-### Login Screen
-[Login screen screenshot will be added here]
-
-### Home Page
-[Home page screenshot will be added here]
-
-## Features
 
 ### For Patients
 - User registration and login system
@@ -29,10 +14,6 @@ This project was developed collaboratively by:
 - Profile management
 - Password recovery functionality
 
-#### Patient Panel Screenshots
-[Patient appointment screen screenshot will be added here]
-[Patient profile screen screenshot will be added here]
-[Blog system screenshot will be added here]
 
 ### For Doctors
 - Manage patient appointments
@@ -42,9 +23,6 @@ This project was developed collaboratively by:
 - Blog post creation and management
 - Interact with patients through comments
 
-#### Doctor Panel Screenshots
-[Doctor appointment management screen screenshot will be added here]
-[Doctor working hours screen screenshot will be added here]
 
 ### For Administrators
 - Complete hospital management dashboard
@@ -54,11 +32,6 @@ This project was developed collaboratively by:
 - System monitoring and statistics
 - Analytics and reporting tools
 
-#### Administrator Panel Screenshots
-[Admin dashboard screenshot will be added here]
-[Staff management screen screenshot will be added here]
-[Clinic management screen screenshot will be added here]
-[Statistics and reporting screen screenshot will be added here]
 
 ## Technical Details
 
